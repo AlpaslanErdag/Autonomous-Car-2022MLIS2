@@ -1,6 +1,6 @@
 # Autonomous Car 2022 -MLIS II-
 Entry date: 16.04.2022
-All the previous issues is solved. You can see our score on kaggle. Now we should focus on image process techniques to make our score better.
+All the previous issues is solved. You can see our score on kaggle. Now we should focus on image process techniques to make our score better. Our main file for now: MLiSII_AutonomousCar_V3.ipynb
 
 ---------------------------------------------------------------------------------------------------------
 Entry date: 13.04.2022
