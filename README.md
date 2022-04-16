@@ -1,5 +1,9 @@
 # Autonomous Car 2022 -MLIS II-
+Entry date: 16.04.2022
+All the previous issues is solved. You can see our score on kaggle. Now we should focus on image process techniques to make our score better.
 
+---------------------------------------------------------------------------------------------------------
+Entry date: 13.04.2022
 Hi mate, I have completed the first try. You can check the "MLiS-AutonomousCar_Project.ipynb" file for now. Results look good, but probably there is something wrong. :) Because I didn't do much image process so far but the good thing is, we can now build other things on that code.
 
 I didn't use kaggle before so, don't know how to send result to there but for now i'think that's not a big deal. I'll learn soon :)
